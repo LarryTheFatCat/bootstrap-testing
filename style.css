@@ -12,6 +12,7 @@ body {
     margin: auto;
     margin-top: 3.5cm;
     flex-direction: column;
+    border-radius: 15px;
 }
 
 .navbar-toggler {
