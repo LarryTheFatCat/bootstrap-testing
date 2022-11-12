@@ -1,0 +1,25 @@
+
+body {
+    background-color: lightblue;
+}
+
+.card {
+    padding: 1cm;
+    padding-top: 2cm;
+    width: 10cm;
+    height: 10cm;
+    display: flex;
+    margin: auto;
+    margin-top: 3.5cm;
+    flex-direction: column;
+}
+
+.navbar-toggler {
+    background-color: burlywood;
+}
+
+#submit-btn {
+    display: flex;
+    margin: 0 auto;
+    margin-top: 1cm;
+}
